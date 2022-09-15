@@ -1,0 +1,6 @@
+﻿Name     class 
+sowmya    10
+sravya    9
+sharu     8
+balu      7
+bablu     6
